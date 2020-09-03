@@ -20,7 +20,7 @@ Data Structure : <br><br>
 9) Hashing
 10) Graph
 11) Matrix <br><br>
-Algorithim: <br><br>
+Algorithms: <br><br>
 12) Searching
 13) Sorting
 14) Greedy Algorithm
@@ -32,7 +32,9 @@ Algorithim: <br><br>
 20) Bit Manipulation
 21) Graph Algorithm
 22) Branch and Bound
-23)Randomized Algorithm <br><br>
-Some Extra thing: <br><br>
+23) Randomized Algorithm <br><br>
+Some Extra things: <br><br>
 24) Company Questions 
 25) Miscellaneous.
+<br><br>
+<b> All this 25 topics will run in loop for 4 time and then we will acheive our 100 days Code Challenge. <b>
