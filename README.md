@@ -3,7 +3,7 @@ Todays Date: 03-Sept-2020
 Daily Update time 10:15pm to 11:30pm (Indian Standard Time)
 <br>
 <br>
-So I am Student persuing my Master Degree in Computer Application and i want to complete my Data Structure and Algorithm part in this 100DaysCodeChallenge.
+So, I am Student persuing my Master Degree in Computer Application and i want to complete my Data Structure and Algorithm part in this 100DaysCodeChallenge.
 <br>
 My Challenge will be divided into 4 parts of 25 topics each day which is 25 x 4 = 100 days. <br>
 Each day i will try to cover atleast 2 coding questions(medum or hard) form any competitive platform.<br><br>
